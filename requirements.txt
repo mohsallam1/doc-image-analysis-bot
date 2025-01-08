@@ -1,0 +1,51 @@
+# Core dependencies
+streamlit>=1.31.0
+ollama>=0.1.5
+Pillow>=10.0.0
+pandas>=2.0.0
+
+# Machine Learning & AI
+torch>=2.0.0
+transformers>=4.36.0
+sentencepiece>=0.1.99
+accelerate>=0.24.0
+
+# Document Processing
+langchain>=0.1.0
+langchain-community>=0.0.13
+langchain-core>=0.1.10
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+PyPDF2>=3.0.0
+python-magic>=0.4.27
+
+# Image Processing
+salesforce-blip>=0.1.0
+
+# Voice Processing
+SpeechRecognition>=3.10.0
+gTTS>=2.4.0
+PyAudio>=0.2.13
+
+# File Handling
+python-docx>=1.0.0
+python-pptx>=0.6.21
+openpyxl>=3.1.2
+
+# Additional Dependencies
+typing-extensions>=4.5.0
+pydantic>=2.0.0
+tenacity>=8.2.0
+numpy>=1.24.0
+tqdm>=4.66.0
+requests>=2.31.0
+urllib3>=2.0.0
+certifi>=2023.7.22
+charset-normalizer>=3.2.0
+idna>=3.4
+packaging>=23.1
+regex>=2023.6.3
+safetensors>=0.3.1
+sympy>=1.12
+tokenizers>=0.13.3
+filelock>=3.12.2
