@@ -14,7 +14,7 @@ A powerful Streamlit application that combines document analysis, image captioni
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/doc-image-analysis-bot.git
+git clone https://github.com/mohsallam1/doc-image-analysis-bot.git
 cd doc-image-analysis-bot
 ```
 
@@ -92,17 +92,6 @@ Models will be downloaded automatically on first use.
 3. Use text chat or voice input to interact
 4. Explore processed documents and generated captions
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## ⚠️ Known Issues
 
