@@ -2,6 +2,16 @@
 
 A powerful Streamlit application that combines document analysis, image captioning, and voice interaction capabilities using LLMs and modern AI technologies.
 
+📸 Screenshots
+<div align="center">
+  <img src="assets/image.png" alt="Main Interface" width="400"/>
+  <p><em>Main interface with document upload and chat</em></p>
+</div>
+<div align="center">
+  <img src="assets/voice-interaction.png" alt="Voice Interaction" width="400"/>
+  <p><em>Voice interaction feature in action</em></p>
+</div>
+
 ## 🌟 Features
 
 - **Document Analysis**: Process and analyze PDF and CSV files
