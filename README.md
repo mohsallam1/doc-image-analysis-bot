@@ -4,12 +4,8 @@ A powerful Streamlit application that combines document analysis, image captioni
 
 📸 Screenshots
 <div align="center">
-  <img src="assets/image.png" alt="Main Interface" width="400"/>
+  <img src="image.png" alt="Main Interface" width="400"/>
   <p><em>Main interface with document upload and chat</em></p>
-</div>
-<div align="center">
-  <img src="assets/voice-interaction.png" alt="Voice Interaction" width="400"/>
-  <p><em>Voice interaction feature in action</em></p>
 </div>
 
 ## 🌟 Features
